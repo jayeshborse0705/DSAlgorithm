@@ -9,6 +9,9 @@ namespace AlgorithmDS
         {
             DTAlgorithm algorithms = new DTAlgorithm();
             algorithms.Insert();
+
+            Anagram ana = new Anagram();
+            ana.Anagrams1();
         }
     }
 }
